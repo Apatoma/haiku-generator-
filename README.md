@@ -22,3 +22,6 @@ This is a Haiku generator, designed to create traditional Japanese short-form po
    ```bash
    git clone https://github.com/Apatoma/haiku-generator-.git
    cd haiku-generator
+
+
+   http://127.0.0.1:5500/index(4).html
